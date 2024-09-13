@@ -4,3 +4,5 @@ plotly.express
 numpy
 pandas
 matplotlib
+seaborn
+plotly.figure_factory
